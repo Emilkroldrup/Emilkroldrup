@@ -4,7 +4,7 @@
 
 🌟 &nbsp;Eager to embrace new technologies and push the boundaries of software engineering.\
 🎓 &nbsp;Advancing my expertise in Data Science while honing skills as a self-taught Full Stack Developer.\
-🚀 &nbsp;Collaborating with the innovative team at [Damage Inc](https://dmginc.gg/), where we pioneer transformative digital experiences.\
+🚀 &nbsp;Teaming up with the trailblazers at [Damage Inc](https://dmginc.gg/) to revolutionize digital experiences. Let's make magic happen!          
 📬 &nbsp;Got a question or want to connect? Drop me a line at emilkroldrup@outlook.com!
 
 
