@@ -31,9 +31,8 @@
 
 <p align="left">
 <a href="https://github.com/Emilkroldrup">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilkroldrup&layout=compact&langs_count=8&theme=algolia"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Emilkroldrup&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilkroldrup&layout=compact&langs_count=8&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0D1117&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emilkroldrup&show_icons=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0D1117&border_color=30363d"/>
 </a>
 </p>
 
