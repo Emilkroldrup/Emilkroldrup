@@ -32,6 +32,8 @@
 <p align="left">
 <a href="https://github.com/Emilkroldrup">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilkroldrup&layout=compact&langs_count=8&theme=algolia"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Emilkroldrup&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
+
 </a>
 </p>
 
