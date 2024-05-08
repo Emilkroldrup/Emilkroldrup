@@ -45,3 +45,6 @@
 <a href="https://www.youtube.com/channel/UCYRI28PJeU8glQB44LfLqmQ"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
 </p>
 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=1190070279">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=1190070279" alt="Data Card for Spotify">
+</a>
