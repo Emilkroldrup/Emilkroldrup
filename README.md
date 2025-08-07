@@ -6,7 +6,7 @@
 🌟 &nbsp;Always hungry for new tech and better architecture 🧠\
 🎓 &nbsp;Sharpening my craft through both work and side projects\
 💡 &nbsp;Driven to build cool stuff that just works – and looks good doing it ✨\
-📬 &nbsp;Got a question or want to collaborate? Hit me up at **emilkroldrup@outlook.com**
+📬 &nbsp;Got a question or want to collaborate? Hit me up at **Emilkroldrup@outlook.com**
 
 <img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5nd3M2dmVjZHptazdnbm9sMjh1c2hlc2ZoZ3F5bzYycXhtMmR3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" align="right" width="250" height="150"/>
 
