@@ -14,7 +14,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-#### 💻 Languages & Frameworks
+#### 💻 Languages 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
